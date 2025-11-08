@@ -91,8 +91,8 @@ implementation("androidx.cardview:cardview:1.0.0")
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/workshop-manager.git
-cd workshop-manager
+git clone https://github.com/username/workshop_manager_vKt.git
+cd workshop_manager_vKt
 ```
 
 ### 2. Buka di Android Studio
@@ -236,7 +236,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 Jika ada pertanyaan atau masalah:
 - Email: support@workshopmanager.com
-- Issues: [GitHub Issues](https://github.com/username/workshop-manager/issues)
+- Issues: [GitHub Issues](https://github.com/username/workshop_manager_vKt/issues)
 
 ---
 
